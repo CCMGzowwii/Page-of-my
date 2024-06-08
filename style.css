@@ -120,3 +120,23 @@ a{
 .im-p{
     padding: 2rem;
 }
+body{
+    background-color: rgb(126, 196, 196);
+}
+.video{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10rem;
+    padding-right: 5rem;
+    border-radius: 5rem;
+}
+video{
+    border-radius: 1rem;
+}
+.text-v{
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    gap: 1rem;
+    font-size: 2rem;
+}
