@@ -140,3 +140,21 @@ video{
     gap: 1rem;
     font-size: 2rem;
 }
+.text-i{
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    gap: 3rem;
+    font-size: 2rem;
+    align-items: center;
+    padding-top: 5rem;
+}
+.comparacion{
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+}
+.info{
+    height: 35rem;
+    width:50rem;
+}
